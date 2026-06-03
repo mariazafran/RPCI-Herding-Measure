@@ -55,14 +55,14 @@ Statistically significant herding
 
 ---
 
-## ⚖️ RPCI vs CSAD
+##  RPCI vs CSAD
 
 | Feature | CSAD | RPCI |
 |--------|------|------|
 | Measures | Dispersion | Convergence |
-| Behaviour captured | ❌ | ✅ |
-| Directional | ❌ | ✅ |
-| Crisis detection | ❌ | ✅ |
+| Behaviour captured | NO | YES|
+| Directional | NO | YES |
+| Crisis detection | NO | YES |
 
  Even after controlling for volatility, CSAD finds no herding,  
 while RPCI detects **crisis-driven convergence**
