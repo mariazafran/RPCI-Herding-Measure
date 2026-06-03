@@ -17,12 +17,13 @@ If you use this work, please cite:
 
 **APA style:**
 
-Bibi, M. (2026). *RPCI: Relative Performance Convergence Index for detecting herding behaviour*. GitHub repository. [Your repository link]
+Bibi, M. (2026). *RPCI: Relative Performance Convergence Index for detecting herding behaviour*. GitHub repository. [Yo]
 
 **BibTeX:**
 
 ```bibtex
-@misc{bibi2026rpci,
+@misc{https://github.com/mariazafran/RPCI-Herding-Measure}
+
   author = {Bibi, Maria},
   title = {RPCI: Relative Performance Convergence Index for detecting herding behaviour},
   year = {2026},
