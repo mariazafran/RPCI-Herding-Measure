@@ -23,8 +23,6 @@ this project models herding as:
 
 ##  Analysis Pipeline
 
-rpci_flowchart.png
-
 1. Price data → log returns  
 2. Rolling performance  
 3. Performance gap (leaders vs laggards)  
