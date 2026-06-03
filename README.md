@@ -1,36 +1,12 @@
-# RPCI-Herding-Measure
-Performance-based measure of herding behaviour using RPCI
 # 📊 RPCI Herding Measure
 
-This project introduces a new measure of herding behaviour:  
+This project introduces a new measure of herding behaviour in financial markets:  
 **Relative Performance Convergence Index (RPCI)**.
 
-Traditional models such as CSAD define herding as reduced dispersion.  
-This project instead models herding as:
+Unlike traditional models such as CSAD, which define herding as reduced dispersion,  
+this project models herding as:
 
 👉 **performance-driven convergence toward outperforming assets**
-
-
-## 📌 How to Cite
-
-If you use this work, please cite:
-
-**APA style:**
-
-Bibi, M. (2026). *RPCI: Relative Performance Convergence Index for detecting herding behaviour*. GitHub repository. [https://github.com/mariazafran/RPCI-Herding-Measure]
-
-**BibTeX:**
-
-```bibtex
-@misc{https://github.com/mariazafran/RPCI-Herding-Measure}
-
-  author = {Bibi, Maria},
-  title = {RPCI: Relative Performance Convergence Index for detecting herding behaviour},
-  year = {2026},
-  publisher = {GitHub},
-  howpublished = {\\url{https://github.com/mariazafran/RPCI-Herding-Measure
-}}
-}
 
 ---
 
@@ -79,9 +55,9 @@ rpci_flowchart.png
 | Measures | Dispersion | Convergence |
 | Behaviour captured | ❌ | ✅ |
 | Directional | ❌ | ✅ |
-| Crisis herd detection | ❌ | ✅ |
+| Crisis detection | ❌ | ✅ |
 
-👉 Even with volatility controls, CSAD shows no herding,  
+👉 Even after controlling for volatility, CSAD finds no herding,  
 while RPCI detects **crisis-driven convergence**
 
 ---
@@ -92,9 +68,34 @@ while RPCI detects **crisis-driven convergence**
 > It is a **time-varying, state-dependent phenomenon**.
 
 Markets appear independent in normal periods  
-but become **behaviourally coordinated during crises**.
+but become **behaviourally coordinated during crises**
 
 ---
+
+## 📌 How to Cite
+
+If you use this work, please cite:
+
+**APA style:**
+
+Bibi, M. (2026). *RPCI: Relative Performance Convergence Index for detecting herding behaviour*.  
+GitHub repository: https://github.com/mariazafran/RPCI-Herding-Measure
+
+---
+
+**BibTeX:**
+
+```bibtex
+@misc{bibi2026rpci,
+  author = {Bibi, Maria},
+  title = {RPCI: Relative Performance Convergence Index for detecting herding behaviour},
+  year = {2026},
+  publisher = {GitHub},
+  howpublished = {\\url{https://github.com/mariazafran/RPCI-Herding-Measure}}
+}
+
+
+
 
 ## 📚 References
 
