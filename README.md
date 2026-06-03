@@ -82,6 +82,13 @@ Bibi, M. (2026). *RPCI: Relative Performance Convergence Index for detecting her
 GitHub repository: https://github.com/mariazafran/RPCI-Herding-Measure
 
 ---
+## 📚 References
+
+- Banerjee, A. (1992). *A simple model of herd behavior*  
+- Bikhchandani, S. et al. (1992). *Informational cascades*  
+- Christie, W. & Huang, R. (1995). *CSSD model*  
+- Chang, E. et al. (2000). *CSAD model*  
+- Hwang, S. & Salmon, M. (2004). *Market stress and herding*
 
 **BibTeX:**
 
@@ -94,13 +101,3 @@ GitHub repository: https://github.com/mariazafran/RPCI-Herding-Measure
   howpublished = {\\url{https://github.com/mariazafran/RPCI-Herding-Measure}}
 }
 
-
-
-
-## 📚 References
-
-- Banerjee, A. (1992). *A simple model of herd behavior*  
-- Bikhchandani, S. et al. (1992). *Informational cascades*  
-- Christie, W. & Huang, R. (1995). *CSSD model*  
-- Chang, E. et al. (2000). *CSAD model*  
-- Hwang, S. & Salmon, M. (2004). *Market stress and herding*
