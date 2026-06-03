@@ -1,4 +1,15 @@
 #  RPCI Herding Measure
+## Open Notebook
+
+- ▶️ Open in Google Colab:  
+  https://colab.research.google.com/github/mariazafran/RPCI-Herding-Measure/blob/main/RPCI_computation.ipynb
+
+- 📖 View in nbviewer (read-only):  
+  https://nbviewer.org/github/mariazafran/RPCI-Herding-Measure/blob/main/RPCI_computation.ipynb
+
+- 📂 GitHub Repository:  
+  https://github.com/mariazafran/RPCI-Herding-Measure
+
 
 This project introduces a new measure of herding behaviour in financial markets:  
 **Relative Performance Convergence Index (RPCI)**.
